@@ -18,7 +18,8 @@ const AxiosTest = () => {
         setLoading(false);
     }
 
-    // 빈 배열을 1번만 실행하게 함
+    // 렌더링 할 때마다 호출
+    // 빈 배열 : loadDate() 한 번만 실행하게 함
     useEffect( () => {
         loadDate();
     }, []); // 배열 값이 변경될 때마다 state 불러와서 실행
