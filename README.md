@@ -16,26 +16,31 @@
   - 모듈이름_페이지 (ex. Member_Login.js)
   - components에는 무조건 대문자로 작성할 것
 
+
+
 > 페이지 종류
 1. 회원 (member)_  5개
   ``` Login.js / MyPage.js (Profile.js / MyListBoard.js) / Join.js ```
-  - 회원가입
-  - 마이페이지 : 프로필 수정 / 내가 쓴 글 / 진행중인 저금통
-  - 로그인
+    - 회원가입
+    - 마이페이지 : 프로필 수정 / 내가 쓴 글 / 진행중인 저금통
+    - 로그인
 
 2. 메인 (index)_ 4개
   ``` index.js / Top.js / Nav.js / Bottom.js ```
-  - 레이아웃
-  - 카테고리
-  - 전체 회원이 쓴 글 목록
+    - 레이아웃
+    - 카테고리
+    - 전체 회원이 쓴 글 목록
 
 3. 글짓기 (board)_ 3개
   ``` WriteBoard.js / UpdateBoard.js / ListBoard.js ```
-  - 글 쓰기, 글 수정, 내가 쓴 글 목록
+    - 글 쓰기, 글 수정, 내가 쓴 글 목록
 
 4. 저금통 (happyBank : hb)_ 4개
   ``` ListHappyBank.js / WriteHappyBank.js / OpenHappyBank.js / PastHappyBank.js ```
-  - 저금통 목록, 저금통 등록, 저금통 오픈, 지난 저금통 보기 (상세보기)
+    - 저금통 목록, 저금통 등록, 저금통 오픈, 지난 저금통 보기 (상세보기)
+
+
+
 
 > 상세 기능
  1. 회원(member)
@@ -81,6 +86,9 @@
     * 오픈 버튼 -> 저장된 글 목록 나옴
   - 지난 저금통
     * 저금통 클릭 -> 저장된 글 목록 나옴
+
+
+
 
 ## 18일 (금) :
 
