@@ -13,8 +13,8 @@
 ### 자동완성 : rsf(함수) , rsc (클래스)
 
 > 파일 작성 시 명명 규칙
-- 모듈이름_페이지 (ex. Member_Login.js)
-- components에는 무조건 대문자로 작성할 것
+  - 모듈이름_페이지 (ex. Member_Login.js)
+  - components에는 무조건 대문자로 작성할 것
 
 > 페이지 종류
 1. 회원 (member)_  5개
@@ -85,24 +85,24 @@
 ## 18일 (금) :
 
 >  휴가 및 공가
-- OJT 면접 및 취업상담으로 빠지는 날 체크
-- 다같이 모여서 개발 가능한 날 화,수
+  - OJT 면접 및 취업상담으로 빠지는 날 체크
+  - 다같이 모여서 개발 가능한 날 화,수
 
 > To Day - 작업
-- vsCode / Spring project : 프로젝트 생성 및 초기 설정 세팅
-- React : 초기 설정 세팅
-- Git : React / Spring 레파지토리 생성
-- 기능에 해당하는 실제 페이지 구현 회의
+  - vsCode / Spring project : 프로젝트 생성 및 초기 설정 세팅
+  - React : 초기 설정 세팅
+  - Git : React / Spring 레파지토리 생성
+  - 기능에 해당하는 실제 페이지 구현 회의
 
 > 각자 개발 파트
-@HANGYESUK : 메인(프론트)
-@jihodaddy : 백엔드
-@hope1021  : 저금통 등록 CRUD (+감정 캐릭터 디자인)
-@roditee   : 저금통 글 등록 CRUD
-@hyov_vely : 회원가입+로그인+마이페이지
+  @HANGYESUK : 메인(프론트)
+  @jihodaddy : 백엔드
+  @hope1021  : 저금통 등록 CRUD (+감정 캐릭터 디자인)
+  @roditee   : 저금통 글 등록 CRUD
+  @hyov_vely : 회원가입+로그인+마이페이지
 
 > To Day - 개발 진행 상황
-@hope1021  : Spring React 행복 저금통 CRUD 구현
-@jihodaddy : 글쓰기 관련 정보 수집 및 테스트, 모달창, Nav바 어떻게 할지, 행복 저금통 구현에 참여
-@roditee   : DB 테이블 생성 및 테스트 데이터 삽입
-: 일반 게시글 / 행복 저금통 게시글 CRUD backend (Spring - React 연동 및 기능 구현 완료)
+  @hope1021  : Spring React 행복 저금통 CRUD 구현
+  @jihodaddy : 글쓰기 관련 정보 수집 및 테스트, 모달창, Nav바 어떻게 할지, 행복 저금통 구현에 참여
+  @roditee   : DB 테이블 생성 및 테스트 데이터 삽입
+             : 일반 게시글 / 행복 저금통 게시글 CRUD backend (Spring - React 연동 및 기능 구현 완료)
